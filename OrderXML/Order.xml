@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Order Id="1" xmlns:tns="http://www.bharatthippireddy.com/Order"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.bharatthippireddy.com/Order Order.xsd ">
+	<tns:customer Id="1">
+		<tns:name>Kim LChu</tns:name>
+	</tns:customer>
+	<tns:product Id="1">
+		<tns:name>Pride and Prejudice</tns:name>
+		<tns:description>classic romance</tns:description>
+		<tns:price>5</tns:price>
+		<tns:category>books</tns:category>
+	</tns:product>
+</tns:Order>
