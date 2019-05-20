@@ -41,3 +41,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 /.metadata/
+/.recommenders/
